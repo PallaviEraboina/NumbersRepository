@@ -4,10 +4,10 @@ using System.Text;
 
 namespace NumWords
 {
-    class Program
+    public class Program
     {
         
-        static String NumWords(int n) 
+        public static String NumWords(int n) 
         {
             
             string[] numbersArr = new string[] { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" };
