@@ -13,29 +13,29 @@ namespace NumbersTest
   public  class NumberTestClass
     {
         [Test]
-        public void PositiveTest()
+        public void ThreeDigitNumberTest()
         {
             int x = 897;
            string actualResult= Program.NumWords(x);
            Assert.AreEqual("eight hundred ninty-seven", actualResult);
+           
         }
         [Test]
-        public void NegativeTest()
+        public void TwoDigitNumberTest()
         {
-            if (true)
-                Assert.Fail("This is a failure");
-        
-        }
-       //[Test,]
-       // public void ExpectedExceptionTest()
-       // {
-       //     throw new NotSupportedException();
+            int x = 56;
+            string actualResult = Program.NumWords(x);
+            Assert.AreEqual("fifty-six", actualResult);
 
-       // }
-       // [Test, Ignore]
-       // public void NotImplementedException()
-       // {
-       //     throw new NotImplementedException();
-       // }
+        }
+        [Test]
+        public void SingleDigitNumberTest()
+        {
+            int x = 2;
+            string actualResult = Program.NumWords(x);
+            Assert.AreEqual("two", actualResult);
+
+        }
+       
     }
 }

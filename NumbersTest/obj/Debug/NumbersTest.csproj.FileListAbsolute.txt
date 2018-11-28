@@ -1,8 +1,0 @@
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\bin\Debug\NumbersTest.dll
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\bin\Debug\NumbersTest.pdb
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\bin\Debug\nunit.framework.dll
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\obj\Debug\NumbersTest.csprojResolveAssemblyReference.cache
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\obj\Debug\NumbersTest.dll
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\obj\Debug\NumbersTest.pdb
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\bin\Debug\Numbers.exe
-C:\Users\M1026395\Documents\Visual Studio 2012\Projects\Numbers\NumbersTest\bin\Debug\Numbers.pdb
